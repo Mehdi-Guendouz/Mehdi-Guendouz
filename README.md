@@ -1,7 +1,7 @@
 # 💫 About Me:
 3rd-year computer science student<br>Full Stack web developer
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Mehdi-Guendouz)
 
 
 ## 🌐 Socials:
