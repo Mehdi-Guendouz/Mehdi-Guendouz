@@ -1,5 +1,5 @@
 # 💫 About Me:
-4rd-year computer science student<br>Full Stack web developer
+4th-year computer science student<br>Full Stack web developer
 
 
 ## 🌐 Socials:
